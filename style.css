@@ -1,0 +1,57 @@
+
+body {
+	background-color: black;
+
+}
+
+nav {
+	font-size: xx-large;
+	text-align: center;
+	padding: 10px
+}
+
+h1 {
+	text-align: center;
+}
+
+h1 {
+	font-size: xx-large;
+}
+
+h2 {
+	text-align: center;
+	font-size: xx-large;
+}
+
+p {
+	text-align: center;
+	font-size: x-large;
+}
+
+ul {
+	color: orange;
+}
+
+ul {
+	text-align: center;
+}
+
+ul {
+	font-size: x-large;
+}
+
+dt {
+	font-size: xx-large;
+	font-family: arial, verdana, sans-serif;
+	padding: 10px;
+}
+
+dd {
+	font-size: large;
+	font-family: arial, verdana, sans-serif;
+}
+
+img {
+	padding: 20px;
+}
+
